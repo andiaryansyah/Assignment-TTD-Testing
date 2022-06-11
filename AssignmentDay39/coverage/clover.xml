@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654706872313" clover="3.2.0">
+  <project timestamp="1654706872313" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4" elements="24" coveredelements="24" complexity="0" loc="16" ncloc="16" packages="2" files="4" classes="4"/>
+    <package name="handlers">
+      <metrics statements="12" coveredstatements="12" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="isLeapYear.js" path="C:\Users\Asus\OneDrive\Desktop\TTD TESTING\DAY 39 TESTING\Assignment\AssignmentDay39\handlers\isLeapYear.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="isWeekend.js" path="C:\Users\Asus\OneDrive\Desktop\TTD TESTING\DAY 39 TESTING\Assignment\AssignmentDay39\handlers\isWeekend.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="model">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <file name="leapYearModel.js" path="C:\Users\Asus\OneDrive\Desktop\TTD TESTING\DAY 39 TESTING\Assignment\AssignmentDay39\model\leapYearModel.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="weekendModel.js" path="C:\Users\Asus\OneDrive\Desktop\TTD TESTING\DAY 39 TESTING\Assignment\AssignmentDay39\model\weekendModel.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
